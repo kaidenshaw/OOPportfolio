@@ -69,7 +69,7 @@ g. Remove the last brace in the program.
 If you complete the exercises above, answer the following questions.
  
 a. What is the latest version of the Java SDK that is available?  JDK 23 /
-b. What is the difference between Java SE and Java ME? Java SE (Standard Edition) is a platform for building general-purpose desktop and server applications, while Java ME (Micro Edition) is designed for developing applications on resource-constrained devices like mobile phones and embedded systems./
-c. Which operating system is Java available for? Java is available for various operating systems, including Windows, macOS, Linux, and Solaris./
-d. What is the most popular IDE available for Java apart from Eclipse? IntelliJ IDEA is one of the most popular IDEs for Java,/
-e. What is the main() function for in a Java program? The main() function in a Java program is the entry point where the program execution begins, and it serves as the starting method when the program is run./
+b. What is the difference between Java SE and Java ME? Java SE (Standard Edition) is a platform for building general-purpose desktop and server applications, while Java ME (Micro Edition) is designed for developing applications on resource-constrained devices like mobile phones and embedded systems. /
+c. Which operating system is Java available for? Java is available for various operating systems, including Windows, macOS, Linux, and Solaris. /
+d. What is the most popular IDE available for Java apart from Eclipse? IntelliJ IDEA is one of the most popular IDEs for Java /
+e. What is the main() function for in a Java program? The main() function in a Java program is the entry point where the program execution begins, and it serves as the starting method when the program is run. /
