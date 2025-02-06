@@ -1,15 +1,15 @@
 
 # OOP 2024 Portfolio
-## Your Name
-### Your Group
-### Your Tutor
+## Kaiden Shaw - Jeffreys
+### Group E
+### Shakeel HM
 
 
 
 ## Work Schedule
 **1 Getting Started**\
 **committed by 5th February**\
-1 Hello World        -- to do\
+1 Hello World        -- done\
 2 Test               -- to do\
 3 Personal Details   -- to do\
 4 Diamonds           -- to do\
