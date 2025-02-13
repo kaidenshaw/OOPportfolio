@@ -1,0 +1,24 @@
+public class StudentGrades {
+    public static void main(String[] args) {
+    // Print the top border of the table
+    System.out.println("///////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
+    System.out.println("==          Student Points          ==");
+    System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
+
+    // Print the column headers
+    System.out.println("Name\t\tLab\tBonus\tTotal");
+    System.out.println("----\t\t---\t-----\t-----");
+
+    // Student data
+    String[] names = {"john", "steven", "Mark", "Alice", "Bob"};
+    int[] labPoints = {43, 50, 39, 45, 48};
+    int[] bonusPoints = {7, 8, 10, 5, 6};
+
+    // Loop through the student data and calculate the total points
+    for (int i = 0; i < names.length; i++) {
+    int total = labPoints[i] + bonusPoints[i];
+    // Print each student's data in a tabulated format
+    System.out.println(names[i] + "\t\t" + labPoints[i] + "\t" + bonusPoints[i] + "\t" + total);
+}
+}
+}
