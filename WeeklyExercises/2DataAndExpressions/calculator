@@ -1,0 +1,22 @@
+public class SquareCalculator {
+
+    public static void main(String[] args) {
+        // Create a Scanner object to read input
+        Scanner scanner = new Scanner(System.in);
+
+        // Prompt the user to enter the side length of the square
+        System.out.print("Enter the length of the square's side: ");
+        int sideLength = scanner.nextInt();
+
+        // Calculate the perimeter and area of the square
+        int perimeter = 4 * sideLength; // Perimeter = 4 * side
+        int area = sideLength * sideLength; // Area = side^2
+
+        // Output the results
+        System.out.println("Perimeter of the square: " + perimeter);
+        System.out.println("Area of the square: " + area);
+        
+        // Close the scanner object to prevent resource leak
+        scanner.close();
+    }
+}
