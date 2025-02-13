@@ -20,7 +20,7 @@
 1 Table of Student Grades  -- done\
 2 Computing Averages       -- to do\
 3 Miles to Kilometers      -- to do\
-4 Square Calculation       -- to do\
+4 Square Calculation       -- done\
 5 Fraction -- to do        -- to do
 
 **3 Selection and Iteration**\
